@@ -1,4 +1,4 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# Semantic HTML Homework
 
 ## Challenges in This Course
 
