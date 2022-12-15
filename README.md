@@ -1,10 +1,12 @@
-# Semantic HTML Homework
+# 01 HTML, CSS and Git: Code Refactor
 
 ## Discription
+Marketing agency wants "something here for thier "site for optimization for search engines.
+## Visuals
+screenshot here
 
-## Tasks
+## Challenges
 
-## What was learned
 
 ## Future improvements
 
